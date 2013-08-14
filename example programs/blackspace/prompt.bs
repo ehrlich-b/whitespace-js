@@ -1,0 +1,10 @@
+push '\S'
+push '>'
+out
+out
+push 0
+in_n
+push 0
+load
+out_n
+end

@@ -1,0 +1,29 @@
+push 10
+push '!'
+push 'd'
+push 'l'
+push 'r'
+push 'o'
+push 'W'
+push '\S'
+push ','
+push 'o'
+push 'l'
+push 'l'
+push 'e'
+push 'H'
+out
+out
+out
+out
+out
+out
+out
+out
+out
+out
+out
+out
+out
+out
+end
